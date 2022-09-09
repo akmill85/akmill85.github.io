@@ -112,7 +112,7 @@ body > .container-fluid {
 
 /* Solid class attached on scroll past first section */
 .navbar.solid {
-  background-color: #07374a;
+  background-color: #f9f9f9;
   transition: background-color 1s ease 0s;
   box-shadow: 0 0 4px rgba(7, 55, 74, 0.2); }
   .navbar.solid .navbar-brand {
